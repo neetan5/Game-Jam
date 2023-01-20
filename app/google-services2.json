@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "12320195965",
+    "project_id": "memory-master-f3495",
+    "storage_bucket": "memory-master-f3495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12320195965:android:291621c3f38001a1183814",
+        "android_client_info": {
+          "package_name": "com.example.androidgame_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12320195965-9opsjldgi88q8n4itekllgi9opa03100.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidgame_1",
+            "certificate_hash": "c5fece050550131b4eed27c8ef6588e82f81f552"
+          }
+        },
+        {
+          "client_id": "12320195965-bv3m4v6mlc60sr0ofu2ttvckeubviqj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9FLK08GNSIEJkp_WGzfWRwvyCIbta594"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12320195965-bv3m4v6mlc60sr0ofu2ttvckeubviqj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
